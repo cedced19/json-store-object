@@ -1,0 +1,29 @@
+{
+    "name": "json-store-object",
+    "version": "0.0.0",
+    "description": "Simple JSON database to store properties.",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cedced19/json-store-object.git"
+    },
+    "keywords": [
+        "db",
+        "json",
+        "property",
+        "object",
+        "rest"
+    ],
+    "author": "Cédric JUNG <cedced19@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/cedced19/json-store-object/issues"
+    },
+    "homepage": "https://github.com/cedced19/json-store-object#readme",
+    "devDependencies": {
+        "mocha": "^5.2.0"
+    }
+}
