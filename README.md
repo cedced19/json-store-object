@@ -1,4 +1,4 @@
-# json-store-obhect
+# json-store-object
 
 [![Build Status](https://travis-ci.org/cedced19/json-store-object.svg?branch=master)](https://travis-ci.org/cedced19/json-store-object)
 
